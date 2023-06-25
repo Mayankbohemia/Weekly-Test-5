@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weekly-Test-5/static/css/main.5caafe70.css",
+    "main.js": "/Weekly-Test-5/static/js/main.11fc63b5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Weekly-Test-5/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Weekly-Test-5/index.html",
+    "main.5caafe70.css.map": "/Weekly-Test-5/static/css/main.5caafe70.css.map",
+    "main.11fc63b5.js.map": "/Weekly-Test-5/static/js/main.11fc63b5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Weekly-Test-5/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5caafe70.css",
+    "static/js/main.11fc63b5.js"
+  ]
+}
