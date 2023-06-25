@@ -1,3 +1,12 @@
+# React Post Polling App
 
+This is a simple React application that periodically polls an API to fetch new posts and displays them in a table. The application fetches new posts every 10 seconds and adds them to the existing list of posts.
+
+## Features
+
+- Periodically fetches new posts from the Hacker News API.
+- Displays the title, URL, created_at, and author of each post in a table.
+- Automatically adds new posts to the existing list without refreshing the page.
+- Increases the page count in each subsequent GET request to fetch new posts.
 
 
